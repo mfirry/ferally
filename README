@@ -1,0 +1,6 @@
+Very humble attempt at extending typelevel/feral for event-driven Cloud Run functions.
+
+References:
+
+- https://cloud.google.com/run/docs/write-event-driven-functions#java
+- https://github.com/typelevel/feral/tree/main/google-cloud-http4s
